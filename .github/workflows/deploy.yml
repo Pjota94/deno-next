@@ -39,6 +39,6 @@ jobs:
         with:
           project: "paulojunior-deno-next-27"
           entrypoint: "jsr:@deno/nextjs-start"
-          root: "."
-          include: .next, public
+          root: "my-app"
+          
           
