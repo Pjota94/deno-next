@@ -1,0 +1,6 @@
+{
+    "imports": {
+      "next/": "https://esm.sh/next@15.1.4/"
+    }
+  }
+  
